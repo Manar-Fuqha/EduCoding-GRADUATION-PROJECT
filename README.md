@@ -111,4 +111,4 @@ The backend API is designed with several security measures to ensure the safety 
 
 ## Contact Information
 
-For questions or feedback, please contact me at [manar.a.fuqha@gmail.com](mailto:manar.a.fuqha@gmail.com).
+For questions or feedback, please contact me at [fuqhamanar@gmail.com](mailto:fuqhamanar@gmail.com).
